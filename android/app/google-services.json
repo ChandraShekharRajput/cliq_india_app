@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "55325906501",
+    "project_id": "cliq-india-c2999",
+    "storage_bucket": "cliq-india-c2999.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55325906501:android:f745acbb16e07a7799752c",
+        "android_client_info": {
+          "package_name": "com.cliqindia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXhgbnnBm8LU96vJZFIRThfkQtwT4JJww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
