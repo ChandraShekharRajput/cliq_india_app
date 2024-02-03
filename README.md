@@ -1,6 +1,7 @@
 # Flutter News App
 
-![App Screenshot](assets/images/cliqIndia Screenshot.jpg)
+![App Screenshot](https://github.com/ChandraShekharRajput/cliq_india_app/assets/114824060/38717de7-8b03-4ac6-80cd-c11dde3e2596)
+
 
 ## Overview
 
