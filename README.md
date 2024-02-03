@@ -1,6 +1,6 @@
 # Flutter News App
 
-![App Screenshot](screenshots/app_screenshot.png)
+![App Screenshot](assets/images/cliqIndia Screenshot.jpg)
 
 ## Overview
 
