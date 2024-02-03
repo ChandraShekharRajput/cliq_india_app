@@ -1,17 +1,23 @@
-# wordpress_app
+# Flutter News App
 
-A new Flutter project.
+![App Screenshot](screenshots/app_screenshot.png)
 
-## Getting Started
+## Overview
 
-This project is a starting point for a Flutter application.
+This Flutter News App is a mobile application that provides users with the latest news articles. The app features user authentication and interacts with a WordPress API to fetch and display news content. Additionally, it supports both dark and light mode themes for a personalized user experience.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- User authentication
+- WordPress API integration
+- Dark and light mode themes
+- News articles categorization
+- User-friendly interface
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Flutter WordPress News App for Android & iOS
+## Technologies Used
+
+- Flutter
+- Dart
+- WordPress API
+- Firebase Authentication
+
